@@ -7,3 +7,4 @@ Collection of open source datasets available for COVID-19 reasearch / analysis
 * [COVID-19 Open Research Dataset](https://pages.semanticscholar.org/coronavirus-research)
 * [Daily level Kaggle dataset on COVID-19 cases](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 * [Doctors and Nurses in each country](https://www.kaggle.com/antgoldbloom/doctors-and-nurses-per-1000-people-by-country)
+* [nCov2019 - An R package with real-time data, historical data and Shiny app](https://github.com/GuangchuangYu/nCov2019)
