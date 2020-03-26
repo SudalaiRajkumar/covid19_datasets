@@ -13,10 +13,13 @@ Collection of open source datasets available for COVID-19 reasearch / analysis
 * [Number of cases and tests in US](https://covidtracking.com/data/)
 * [Kaggle dataset on number of US cases](https://www.kaggle.com/sudalairajkumar/covid19-in-usa)
 
-## Other Nations
+### Other Nations
 * [COVID-19 cases in India](https://www.kaggle.com/sudalairajkumar/covid19-in-india)
 * [COVID-19 cases in South Korea](https://www.kaggle.com/kimjihoo/coronavirusdataset)
 * [COVID-19 cases in Italy](https://www.kaggle.com/sudalairajkumar/covid19-in-italy)
 * [COVID-19 cases in Brazil](https://www.kaggle.com/unanimad/corona-virus-brazil)
 * [COVID-19 cases in Switzerland](https://www.kaggle.com/daenuprobst/covid19-cases-switzerland)
 * [COVID-19 cases in Indonesia](https://www.kaggle.com/ardisragen/indonesia-coronavirus-cases)
+
+## Computer Vision
+* [COVID-19 database on Italian Radiological Cases](https://www.sirm.org/category/senza-categoria/covid-19/)
